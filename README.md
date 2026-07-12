@@ -1,2 +1,22 @@
-# react-roadmap
-Repositório dedicado ao meu plano de estudos em React, reunindo fundamentos, conceitos avançados, práticas de código, desafios e projetos para consolidar conhecimentos em desenvolvimento frontend.
+# React Roadmap
+
+Repositório com meus estudos de React.
+
+## Conteúdo
+
+- Fundamentos
+- Componentes
+- Props
+- State
+- Eventos
+- Forms
+- Hooks
+- Router
+- APIs
+- Context API
+- Performance
+- Testes
+- TypeScript
+- Projeto Final
+
+Cada módulo possui exercícios e projetos.
